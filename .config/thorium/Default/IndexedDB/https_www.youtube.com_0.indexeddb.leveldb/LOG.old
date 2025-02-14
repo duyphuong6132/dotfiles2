@@ -1,0 +1,6 @@
+2025/02/13-16:40:17.478 1db0f Reusing MANIFEST /home/yifuwn/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/13-16:40:17.478 1db0f Recovering log #3
+2025/02/13-16:40:17.484 1db0f Reusing old log /home/yifuwn/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2025/02/13-16:45:54.502 1db0f Level-0 table #5: started
+2025/02/13-16:45:54.545 1db0f Level-0 table #5: 1066896 bytes OK
+2025/02/13-16:45:54.549 1db0f Delete type=0 #3

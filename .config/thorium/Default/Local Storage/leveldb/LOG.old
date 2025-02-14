@@ -1,0 +1,12 @@
+2025/02/14-00:47:58.221 4 Reusing MANIFEST /home/yifuwn/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2025/02/14-00:47:58.229 4 Recovering log #3
+2025/02/14-00:47:58.230 4 Reusing old log /home/yifuwn/.config/thorium/Default/Local Storage/leveldb/000003.log 
+2025/02/14-00:48:12.113 4 Level-0 table #5: started
+2025/02/14-00:48:12.123 4 Level-0 table #5: 53919 bytes OK
+2025/02/14-00:48:12.130 4 Delete type=0 #3
+2025/02/14-01:05:05.954 5 Level-0 table #7: started
+2025/02/14-01:05:05.961 5 Level-0 table #7: 29591 bytes OK
+2025/02/14-01:05:05.968 5 Delete type=0 #4
+2025/02/14-01:10:05.959 4 Level-0 table #9: started
+2025/02/14-01:10:05.984 4 Level-0 table #9: 33858 bytes OK
+2025/02/14-01:10:06.004 4 Delete type=0 #6

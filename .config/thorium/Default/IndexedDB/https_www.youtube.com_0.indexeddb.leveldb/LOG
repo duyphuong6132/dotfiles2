@@ -1,0 +1,12 @@
+2025/02/14-00:48:07.430 31aa4 Reusing MANIFEST /home/yifuwn/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/14-00:48:07.430 31aa4 Recovering log #4
+2025/02/14-00:48:07.432 31aa4 Reusing old log /home/yifuwn/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2025/02/14-00:58:58.636 31aa4 Level-0 table #8: started
+2025/02/14-00:58:58.655 31aa4 Level-0 table #8: 1351602 bytes OK
+2025/02/14-00:58:58.659 31aa4 Delete type=0 #4
+2025/02/14-00:59:07.174 31aa4 Compacting 1@1 + 1@2 files
+2025/02/14-00:59:07.186 31aa4 Generated table #9@1: 316 keys, 37379 bytes
+2025/02/14-00:59:07.186 31aa4 Compacted 1@1 + 1@2 files => 37379 bytes
+2025/02/14-00:59:07.189 31aa4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/14-00:59:07.190 31aa4 Delete type=2 #5
+2025/02/14-00:59:07.190 31aa4 Delete type=2 #8

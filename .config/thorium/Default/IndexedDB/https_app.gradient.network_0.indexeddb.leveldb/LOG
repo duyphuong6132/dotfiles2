@@ -1,0 +1,6 @@
+2025/02/14-01:03:02.376 31ab2 Creating DB /home/yifuwn/.config/thorium/Default/IndexedDB/https_app.gradient.network_0.indexeddb.leveldb since it was missing.
+2025/02/14-01:03:02.385 31ab2 Reusing MANIFEST /home/yifuwn/.config/thorium/Default/IndexedDB/https_app.gradient.network_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/14-01:03:02.445 31ab2 Level-0 table #5: started
+2025/02/14-01:03:02.451 31ab2 Level-0 table #5: 1298 bytes OK
+2025/02/14-01:03:02.456 31ab2 Delete type=0 #3
+2025/02/14-01:03:02.456 31aa3 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
